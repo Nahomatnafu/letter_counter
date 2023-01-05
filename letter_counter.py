@@ -1,6 +1,6 @@
 """
 Written by Nahom Atnafu
-Date by 1/5/2023
+Date: 1/5/2023
 
 """
 
